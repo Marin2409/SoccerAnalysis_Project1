@@ -10,3 +10,6 @@ Match history spans from 2000–2024
 226k matches 
 900 teams from all major leagues worldwide 
 Game statistics (Shots, Fouls, Corners, Yellow Cards)
+
+# Accessing Files
+To access the files just download the two .csv files and save them in your drive. When loading the data make sure to change the path of the file to where you save them in your files. 
