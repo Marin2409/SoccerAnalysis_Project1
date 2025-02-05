@@ -1,7 +1,10 @@
 # data_science_project_1
 Project 1: Data Science St Edwards University
+
 Research Question: How is success measured and what factors affect a team’s success?
+
 Dataset Link: https://www.kaggle.com/datasets/adamgbor/club-football-match-data-2000-2025/data
+
 Code written by: Jose Marin
 
 # Project Data Overview 
